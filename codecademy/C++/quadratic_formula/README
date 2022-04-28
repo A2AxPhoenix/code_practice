@@ -1,0 +1,33 @@
+  ___  _   _   _    ____  ____      _  _____ ___ ____ 
+ / _ \| | | | / \  |  _ \|  _ \    / \|_   _|_ _/ ___|
+| | | | | | |/ _ \ | | | | |_) |  / _ \ | |  | | |    
+| |_| | |_| / ___ \| |_| |  _ <  / ___ \| |  | | |___ 
+ \__\_\\___/_/   \_\____/|_| \_\/_/   \_\_| |___\____|
+                                                      
+ _____ ___  ____  __  __ _   _ _        _    
+|  ___/ _ \|  _ \|  \/  | | | | |      / \   
+| |_ | | | | |_) | |\/| | | | | |     / _ \  
+|  _|| |_| |  _ <| |  | | |_| | |___ / ___ \ 
+|_|   \___/|_| \_\_|  |_|\___/|_____/_/   \_\
+
+========================================================================
+                                PROMPT:
+========================================================================
+ In algebra, a quadratic equation is an equation having the form:
+
+                          ax^2 + bx + c = 0
+
+The corresponding x values are the x-intercepts of the graph, while a, b, and c are constants.
+
+Write a C++ program called quadratic.cpp that solves the quadratic equation for the x‘s:
+
+                    x = -b +- sqrt(b^2 - 4ac) / 2a
+
+========================================================================
+                        LEARNING OUTCOMES:
+========================================================================
+
+1. Basic introduction to other C++ libraries (cmath) and their functions (pow() and sqrt())
+2. Input/Output and putting those into variables.
+3. Vetting input from the user. *This is done on my own from CSCI classes
+4. String concatenation
