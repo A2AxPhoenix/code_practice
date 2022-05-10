@@ -1,0 +1,29 @@
+ _     _____    _    ____   __   _______    _    ____  
+| |   | ____|  / \  |  _ \  \ \ / / ____|  / \  |  _ \ 
+| |   |  _|   / _ \ | |_) |  \ V /|  _|   / _ \ | |_) |
+| |___| |___ / ___ \|  __/    | | | |___ / ___ \|  _ < 
+|_____|_____/_/   \_\_|       |_| |_____/_/   \_\_| \_\
+                                                       
+========================================================================
+                                PROMPT:
+========================================================================
+Let’s try a challenging problem that will put all your brain cells to the test.
+
+Write a C++ program that:
+
+    1. Takes a year as input.
+    2. Checks to see if the year is a four-digit number.
+    3. Displays whether or not the year falls on a leap year.
+
+There are 3 criteria that must be taken into account to identify a leap year:
+
+    1. If the year can be evenly divided by 4 then it is a leap year, however…
+    2. If that year can be evenly divided by 100, and it is not evenly divided by 400, then it is NOT a leap year.
+    3. If that year is evenly divisible by 400, then it is a leap year.
+========================================================================
+                            LEARNING OUTCOMES:
+========================================================================
+1. Use of functions in the std::string library (specifically .stoi() and .size())
+2. Throwing exceptions using std::stdexcept
+3. Using modulus
+4. Comparison operators (or, and, greater than, less than, not equal, equal to, and not)

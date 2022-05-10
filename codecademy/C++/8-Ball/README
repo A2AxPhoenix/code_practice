@@ -1,0 +1,42 @@
+  ___        ____    _    _     _     
+ ( _ )      | __ )  / \  | |   | |    
+ / _ \ _____|  _ \ / _ \ | |   | |    
+| (_) |_____| |_) / ___ \| |___| |___ 
+ \___/      |____/_/   \_\_____|_____|
+========================================================================
+                                 PROMPT:
+========================================================================                                    
+The Magic 8-Ball is a super popular toy used for fortune-telling or seeking advice, developed in the 1950s!
+
+Write a C++ program that will output a random fortune each time it executes.
+
+Magic 8-Ball, should I do this project?
+
+The answers inside a standard Magic 8-Ball are:
+
+    It is certain.
+    It is decidedly so.
+    Without a doubt.
+    Yes - definitely.
+    You may rely on it.
+    As I see it, yes.
+    Most likely.
+    Outlook good.
+    Yes.
+    Signs point to yes.
+    Reply hazy, try again.
+    Ask again later.
+    Better not tell you now.
+    Cannot predict now.
+    Concentrate and ask again.
+    Don't count on it.
+    My reply is no.
+    My sources say no.
+    Outlook not so good.
+    Very doubtful.
+========================================================================
+                            LEARNING OUTCOMES:
+========================================================================
+1. Introduction to functions in std::cstdlib specifically srand() and rand()
+2. Conditionals (if/else if/else)
+3. Throwing exceptions using std::stdexcept

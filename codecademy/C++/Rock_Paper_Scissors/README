@@ -1,0 +1,30 @@
+ ____   ___       ____  _   _    _    __  __       ____   ___  
+|  _ \ / _ \     / ___|| | | |  / \  |  \/  |     | __ ) / _ \ 
+| |_) | | | |____\___ \| |_| | / _ \ | |\/| |_____|  _ \| | | |
+|  _ <| |_| |_____|__) |  _  |/ ___ \| |  | |_____| |_) | |_| |
+|_| \_\\___/     |____/|_| |_/_/   \_\_|  |_|     |____/ \___/ 
+
+========================================================================
+                            PROMPT:
+========================================================================
+You may have played Rock, Paper, Scissors, but have you played Rock, Paper, Scissors, Lizard, Spock?
+This is the infamous game brought to popularity with the TV show The Big Bang Theory.
+
+Rock Paper Scissors Lizard Spock
+
+Write a C++ program that:
+
+    1. Prompts the user to select either Rock, Paper, Scissors, Lizard, or Spock.
+    2. Instructs the computer to randomly select either Rock, Paper, Scissors, Lizard, or Spock.
+    3. Compares the user’s choice and the computer’s choice and determine the winner.
+    4. Informs the user who the winner is.
+
+Note: This project will be particularly challenging due to its complex logic. Beware! Only the brave should venture forth.
+
+========================================================================
+                        Learning Outcomes:
+========================================================================
+1. Further understanding of conditionals (if/else if/else)
+2. Logic operators and logical ordering (and, or, not)
+3. Exception handling (using stdexcept)
+4. Contemplating edge cases such as ties in this project.
